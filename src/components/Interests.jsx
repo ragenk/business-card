@@ -3,7 +3,7 @@ function Interests() {
     <>
       <section className="interests">
         <h2>Interests</h2>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur, magnam recusandae qui labore explicabo soluta minus voluptatibus repellat blanditiis. Quibusdam, expedita obcaecati? Repellat doloremque voluptas, aperiam neque cumque quos vel.</p>
+        <p>Focused on web application development with a keen interest in frontend technologies and AI-driven solutions. I apply this through hands-on projects that merge design and smart functionality.</p>
       </section>
     </>
   );
