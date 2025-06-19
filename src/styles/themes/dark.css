@@ -1,0 +1,30 @@
+body {
+    background-color: #1A1B21;
+    color: #FFFFFF;
+}
+
+footer {
+    background-color: #161619;
+}
+
+footer a {
+    color: #918E9B
+}
+
+.job-title {
+    color:#F3BF99;
+}
+
+.website {
+    color: #F5F5F5;
+}
+
+.btn-email {
+    background-color: white;
+    color: #1A1B21;
+}
+
+.btn-linkedin {
+    background-color: #5093E2;
+    color: white;
+}

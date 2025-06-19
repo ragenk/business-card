@@ -1,0 +1,26 @@
+header {
+    text-align: center;
+}
+
+h1 {
+    margin-top: 1em;
+}
+
+.job-title {
+    margin-top: 0.5em;
+}
+
+.website {
+    margin-bottom: 2em;
+}
+
+header img {
+    width: 100%;
+}
+
+.btn-wrapper {
+    margin: 1em 2em;
+    display: flex;
+    gap: 1em;
+    justify-content: space-evenly;
+}

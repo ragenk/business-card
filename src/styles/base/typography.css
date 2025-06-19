@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+h1 {
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.job-title {
+    font-size: 0.8rem;
+    font-weight: 300;
+}
+
+.website {
+    font-size: 0.625rem;
+}
+
+.btn {
+    font-size: 0.875rem;
+    font-weight: 400;
+}
+
+section p {
+    font-size: 0.625rem;
+    font-weight: 150;
+    line-height: 1.5;
+}
+
+footer a {
+
+    font-size: 1.5rem;
+}
