@@ -1,7 +1,7 @@
 import profilePicture from "../assets/profile-picture.png"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
-import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
+import { faLinkedin, faWhatsapp } from '@fortawesome/free-brands-svg-icons';
+/* import { faEnvelope } from '@fortawesome/free-solid-svg-icons' */
 
 function Header() {
     return (
@@ -16,8 +16,8 @@ function Header() {
                 <p className="job-title">Frontend Developer</p>
                 <small className="website">ikydo.dev</small>
                 <div className="btn-wrapper" >
-                    <a href="#" className="btn btn-email"><FontAwesomeIcon icon={faEnvelope} /> Email</a>
-                    <a href="#" className="btn btn-linkedin"><FontAwesomeIcon icon={faLinkedin} /> LilnkedIn</a>
+                    <a aria-label="Chat on WhatsApp" href="https://wa.me/18094324277" className="btn btn-contact"><FontAwesomeIcon icon={faWhatsapp} /> WhatsApp</a>
+                    <a href="#" className="btn btn-linkedin"><FontAwesomeIcon icon={faLinkedin} /> LinkedIn</a>
                 </div>
             </header>           
         </>
